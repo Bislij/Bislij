@@ -8,22 +8,17 @@
 
 <br>
 
-<p>
-I'm in your walls.
-</p>
-
 </div>
 
-<br>
+```
+Welcome to my github page, forever under construction.
+```
 
-<h3>Active Projects</h3>
+```javascript
+let name = 'bislij';
+let role = 'developer';
 
-<hr>
-
-<div align="left">
-
-| Project                                             | Role        |
-| --------------------------------------------------- | ----------- |
-| **[BirdBox](https://github.com/grumpzalt/BirdBox)** | *Developer* |
-
-</div>
+let projects = {
+    birdbox: 'https://github.com/grumpzalt/BirdBox'
+};
+```
