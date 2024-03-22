@@ -16,7 +16,9 @@ I'm in your walls.
 
 <br>
 
-<font size="5">Bislij</font>
+<h3>Active Projects</h3>
+
+<hr>
 
 <div align="left">
 
