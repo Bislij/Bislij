@@ -2,13 +2,17 @@
 
 <div align="left">
 
-<h1>Bislij</h1>
+<font size="6">Bislij</font>
+
+<p>
+I'm in your walls.
+</p>
 
 </div>
 
 <br>
 
-<h2>Active Projects</h2>
+<font size="5">Bislij</font>
 
 <div align="left">
 
