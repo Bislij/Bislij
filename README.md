@@ -10,11 +10,7 @@
 
 </div>
 
-<div align="center">
-
-<font color="yellow"><b>Welcome to my github page, forever under construction.</b></font>
-
-</div>
+<div align="center"><b>Welcome to my github page, forever under construction.</b></div>
 
 <br>
 
