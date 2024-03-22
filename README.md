@@ -10,9 +10,6 @@
 
 </div>
 
-<div align="center"><b>Welcome to my github page, forever under construction.</b></div>
-
-<br>
 
 ```javascript
 const name = 'bislij';
