@@ -2,7 +2,11 @@
 
 <div align="left">
 
-<font size="6">Bislij</font>
+<h3 align="left">Bislij</h3>
+
+<hr>
+
+<br>
 
 <p>
 I'm in your walls.
