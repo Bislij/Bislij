@@ -1,4 +1,4 @@
-<img src="pickles.jpg" height="100px" align="left">
+<img src="picklesRounded.png" height="100px" align="left">
 
 <div align="left">
 
