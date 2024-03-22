@@ -1,1 +1,1 @@
-testing
+![Metrics](/github-metrics.svg)
