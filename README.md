@@ -1,7 +1,19 @@
-# Bislij
+<img src="pickles.jpg" height="100px" align="left">
 
-`/bɪslij/`
+<div align="left">
 
+<h1>Bislij</h1>
 
+</div>
 
-<marquee><i>I love depricated HTML</i></marquee>
+<br>
+
+<h2>Active Projects</h2>
+
+<div align="left">
+
+| Project                                             | Role        |
+| --------------------------------------------------- | ----------- |
+| **[BirdBox](https://github.com/grumpzalt/BirdBox)** | *Developer* |
+
+</div>
