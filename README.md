@@ -10,13 +10,13 @@
 
 </div>
 
-```
-Welcome to my github page, forever under construction.
-```
+<div align="center"> Welcome to my github page, forever under construction. </div>
+
+<br>
 
 ```javascript
-let name = 'bislij';
-let role = 'developer';
+const name = 'bislij';
+const role = 'developer';
 
 let projects = {
     birdbox: 'https://github.com/grumpzalt/BirdBox'
